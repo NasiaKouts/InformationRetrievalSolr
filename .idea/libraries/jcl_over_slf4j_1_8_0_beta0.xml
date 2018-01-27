@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jcl-over-slf4j-1.8.0-beta0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/slf4j-1.8.0-beta0/jcl-over-slf4j-1.8.0-beta0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/slf4j-1.8.0-beta0/slf4j-api-1.8.0-beta0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/slf4j-1.8.0-beta0/slf4j-simple-1.8.0-beta0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

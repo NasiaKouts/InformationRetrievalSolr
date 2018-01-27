@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="solr-analysis-extras-7.2.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libraries/solr-analysis-extras-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-analytics-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-core-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-solrj-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-test-framework-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-clustering-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-dataimporthandler-extras-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-ltr-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-dataimporthandler-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-velocity-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-cell-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-uima-7.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/libraries/solr-langid-7.2.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
