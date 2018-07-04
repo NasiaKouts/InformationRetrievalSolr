@@ -1,0 +1,20 @@
+[
+  {
+    "store" : "myEfiFeatureStore",
+    "name" : "wordOnTitle",
+    "class" : "org.apache.solr.ltr.feature.SolrFeature",
+    "params" : { "q" : "{!field f=title}${word1}" }
+  },
+  {
+    "store" : "myEfiFeatureStore",
+    "name" : "wordOnText",
+    "class" : "org.apache.solr.ltr.feature.SolrFeature",
+    "params" : { "q" : "{!field f=text}${word2}" }
+  },
+  {
+    "store" : "myEfiFeatureStore",
+    "name" : "originalScore",
+    "class" : "org.apache.solr.ltr.feature.OriginalScoreFeature",
+    "params" : {}
+  }
+]

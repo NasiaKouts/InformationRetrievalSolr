@@ -1,0 +1,17 @@
+{
+  "store" : "myEfiFeatureStore",
+  "name" : "myEfiModel",
+  "class" : "org.apache.solr.ltr.model.LinearModel",
+  "features" : [
+    { "name" : "wordOnTitle" },
+    { "name" : "wordOnText" },
+    { "name" : "originalScore" }
+  ],
+  "params" : {
+    "weights" : {
+      "wordOnTitle" : 1.5,
+      "wordOnText" : 1.0,
+      "originalScore" : 0.8
+    }
+  }
+}
